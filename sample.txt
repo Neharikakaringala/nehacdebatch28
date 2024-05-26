@@ -1,0 +1,28 @@
+
+1. Write a Python program to print "Hello, World!".
+
+2. Write a program to check if a number is even or odd.
+
+3. Create a program to find the sum of all numbers from 1 to N (where N is entered by the user).
+
+4. Calculate the factorial of a number.
+
+5. Write a Python program to reverse a string.
+
+6. Create a program that checks if a given number is prime.
+
+7. Calculate the square root of a number.
+
+8. Create a simple calculator program that performs addition, subtraction, multiplication, and division.
+
+9. Generate a list of even numbers from 1 to N.
+
+10. Check if a given string is a palindrome or not. 11. Write a program to find the largest element in a list.
+
+12. Generate a Fibonacci sequence up to N terms.
+
+13. Write a program to count the number of vowels in a string
+
+14. Determine if a year is a leap year or not.
+
+15. Write a Python program to sort a list of numbers in ascending order.
